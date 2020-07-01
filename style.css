@@ -11,6 +11,9 @@ h2{
 h3{
     font-size: 25px;
 }
+.half-width h2 {
+    padding-top: 95px;
+    }
 p{
     color: dimgray;
 }
